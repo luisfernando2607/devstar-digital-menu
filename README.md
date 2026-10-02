@@ -10,6 +10,10 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
+<a href="https://luisfernando2607.github.io/devstar-digital-menu/"><img src="https://img.shields.io/badge/▶_Ver_demo_en_vivo-6C63FF?style=for-the-badge" alt="Demo en vivo"/></a>
+
+<img src="docs/demo.png" alt="Vista del cliente — pedido de almuerzo" width="90%"/>
+
 </div>
 
 ---
